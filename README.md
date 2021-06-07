@@ -55,8 +55,3 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 
 
-
-
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/flutter_ecommerce_app/count.svg" alt ="Loading">
