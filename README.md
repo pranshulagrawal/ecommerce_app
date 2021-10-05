@@ -44,5 +44,7 @@ lib
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
+This is the app designed to help the people to move from webpage to the app so that it will be acessible anyone on your android phone without using chrome
+
 
 
